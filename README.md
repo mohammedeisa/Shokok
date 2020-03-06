@@ -1,0 +1,2 @@
+# Shokok
+Handle installments easily
